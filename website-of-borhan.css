@@ -31,5 +31,14 @@ section{
 .background{
     background-image: url(background.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 100%;
+}
+#word{
+    padding-right: 5%;
+}
+#word2{
+width: 45%;
+}
+.down{
+    padding-top: 10%;
 }
