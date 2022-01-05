@@ -42,3 +42,21 @@ width: 45%;
 .down{
     padding-top: 10%;
 }
+.box{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px gray;
+    background-color: rgb(223, 201, 221);
+    padding-left: 3%;
+    padding-right: 2%;
+    border-radius: 30px;
+    border-left: 10px solid ;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+    padding-top: 150px;
+}
